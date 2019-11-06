@@ -1,0 +1,3 @@
+HTTP_PROXY=http://tkyproxy.intra.tis.co.jp:8080/
+HTTPS_PROXY=http://tkyproxy.intra.tis.co.jp:8080/
+NO_PROXY=.local,.svc,openshift01,openshift02,openshift03,localhost,.localdomain,.tisintecgrp.jp,.intra.tis.co.jp,.dcmd.tis.co.jp,.local,deviac.div.tis.co.jp,172.17.196.46,172.17.196.47,172.17.196.48,172.17.196.49,127.0.0.1,172.30.0.0/16,10.0.0.0/8
